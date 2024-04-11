@@ -1,4 +1,4 @@
-# Container Environment Setup Guide
+# Container environment from scratch using bash commands
 
 To set up a container environment using command lines, follow these steps:
 
